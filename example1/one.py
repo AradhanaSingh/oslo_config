@@ -1,4 +1,5 @@
-#Code to read configuration from app.conf
+# Code to read configuration from app.conf
+# Source : http://www.giantflyingsaucer.com/blog/?p=4822
 
 from oslo_config import cfg
 
